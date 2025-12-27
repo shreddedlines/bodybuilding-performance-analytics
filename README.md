@@ -142,4 +142,4 @@ This project intentionally avoids machine learning to maintain interpretability 
 ## Author
 **Kshitish**  
 Data Science Undergraduate  
-Interested in data analysis, performance tracking, and building insight-driven systems
+Interested in Data Analysis, Performance Tracking, and Building Insight-Driven Systems
